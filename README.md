@@ -40,7 +40,5 @@ When the dealer has served every player, the dealers face-down card is turned up
 
 ### Required libraries
 
-- tkinter
-- pygame
 - random
-- os
+
