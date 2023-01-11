@@ -1,22 +1,29 @@
 # Blackjack
 Also known as 21, is a card game where players try to get as close to 21 points as possible without going over.
 
-# Rulles:
 ---
+
+# Rulles:
+
 ### Object of the Game
+
 Each participant attempts to beat the dealer by getting a count as close to 21 as possible, without going over 21.
+
 ---
 ### Card Values/scoring
 
 It is up to each individual player if an ace is worth 1 or 11. Face cards are 10 and any other card is its pip value.
+
 ---
 ### Betting
 
-Before the deal begins, each player places a bet, in chips, in front of them in the designated area.he 
+Before the deal begins, each player places a bet, in chips, in front of them in the designated area.
+
 ---
 ### Deal
 
 When all the players have placed their bets, the dealer gives one card face up to each player in rotation clockwise, and then one card face up to themselves. Another round of cards is then dealt face up to each player, but the dealer takes the second card face down. Thus, each player except the dealer receives two cards face up, and the dealer receives one card face up and one card face down.
+
 ---
 ### The Play
 
